@@ -1,0 +1,15 @@
+{
+  "name": "kvorum",
+  "displayName": "Кворум",
+  "version": "0.1.0",
+  "description": "Совет директоров для одного человека: пять жёстких взглядов на решение, условия выхода, журнал прогнозов и ретро.",
+  "author": {
+    "name": "shardness",
+    "url": "https://github.com/shardnessS"
+  },
+  "homepage": "https://github.com/shardnessS/kvorum",
+  "repository": "https://github.com/shardnessS/kvorum",
+  "license": "MIT",
+  "icon": "./assets/icon.svg",
+  "keywords": ["decision-making", "pre-mortem", "business", "forecasting", "calibration", "решения", "совет директоров"]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kvorum",
+  "description": "Совет директоров для одного человека: пять жёстких взглядов на решение, условия выхода, журнал прогнозов и ретро.",
+  "owner": {
+    "name": "shardness",
+    "url": "https://github.com/shardnessS"
+  },
+  "plugins": [
+    {
+      "name": "kvorum",
+      "source": "./",
+      "description": "Совет директоров для одного человека: пять жёстких взглядов на решение, условия выхода, журнал прогнозов и ретро.",
+      "category": "productivity"
+    }
+  ]
+}
